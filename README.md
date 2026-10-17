@@ -6,7 +6,6 @@ check that holds it.
 
 **What I build**
 
-- **[Cool Code](https://code.coolwhite.us/)**: an OpenAI-compatible API for xAI's Grok models that I run in production, built on the open-source sub2api and extended. One `base_url`, per-token billing at a published markup, a log for every request, no charge for failed requests, Stripe payments and automatic failover.
 - **[cool-workflow](https://github.com/coo1white/cool-workflow)**: get a saved, cited report from your AI agent. [On npm](https://www.npmjs.com/package/cool-workflow).
 - **[chime](https://github.com/coo1white/chime)**: a personal terminal secretary. Zero runtime dependencies; Claude or Gemini as the brain.
 
