@@ -17,4 +17,4 @@ typing; a person decides what ships.
 **Open to** remote roles and contract work: AI delivery setup, Node/TypeScript backend,
 project management.
 
-📫 nick@coolwhite.us · [coolwhite.us](https://coolwhite.us/)
+📫 nick@coolwhite.us
