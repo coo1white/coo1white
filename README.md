@@ -6,8 +6,8 @@ check that holds it.
 
 **What I build**
 
-- **[cool-workflow](https://github.com/coo1white/cool-workflow)**: get a saved, cited report from your AI agent. [On npm](https://www.npmjs.com/package/cool-workflow).
 - **[yokoten · 横展](https://github.com/coo1white/yokoten)**: a guide for the journey, a guard at the bridge. Guardrails and a five-stage guide for building software with AI agents. Zero dependencies. [yokoten.app](https://yokoten.app)
+- **[cool-workflow](https://github.com/coo1white/cool-workflow)**: get a saved, cited report from your AI agent. [On npm](https://www.npmjs.com/package/cool-workflow).
 
 **How I work**
 
