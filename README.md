@@ -19,4 +19,4 @@ AI delivery and developer-experience setup: guardrails, CI and review flow for A
 Release and quality engineering for AI teams
 Technical project management for AI products
 
-📫 nick@coolwhite.us
+📫 nick.bai@coolwhite.us
