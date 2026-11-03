@@ -1,8 +1,8 @@
 ### Hi, I'm Nick
 
-I bring production-line quality to software built by AI.
+I bring manufacturing discipline to software built by AI.
 
-Seven years running electronics production lines taught me one thing: quality comes from the process, not from heroes. Now I build software with AI agents and run it the same way. Every change takes the same road, and every rule has a check that holds it.
+Seven years in electronics manufacturing taught me one thing: quality comes from the process, not from heroes. Now I build software with AI agents and run it the same way. Every change takes the same road, and every rule has a check that holds it.
 
 What I build
 
