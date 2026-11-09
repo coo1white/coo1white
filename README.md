@@ -1,22 +1,23 @@
-### Hi, I'm Nick
+### Hi, I'm Nick · Coolwhite Studio · 酷白工作室
 
-I bring manufacturing discipline to software built by AI.
+**Your AI built it. Now it's stuck. I'll get it working, and keep it working.**
 
-Seven years in electronics manufacturing taught me one thing: quality comes from the process, not from heroes. Now I build software with AI agents and run it the same way. Every change takes the same road, and every rule has a check that holds it.
+I run [Coolwhite Studio](https://coolwhite.us), a one-person studio that rescues AI-built projects for solo founders. Seven years in electronics manufacturing taught me one rule: fix the cause, not just the defect. I build software with AI agents and run it the same way.
 
-What I build
+**How we work together**
 
-yokoten · 横展: stops your AI coding agent from making the mistake you can't undo. One command, no setup. A guard at the bridge (force push, wiped folder, leaked key, release without the owner), a guide for the road (five stages from "safety net" to "a team of agents"), and CI checks that explain every finding. Zero dependencies, MIT. npx yokoten · yokoten.app · under yokoten-labs
-Built in the open with its own process: 520+ merged pull requests, 1,900+ tests on Linux, Windows and macOS, 52 decision records, a review by a different AI model on every change; a change to a hard line (rules, workflows, release) merges only with my approval.
-cool-workflow: a saved, cited report from your AI agent. On npm.
-How I work
+1. **Free check.** I run [inkamark](https://inkamark.com) on your public pages: 20 checks across screens, reading, search, safety and basics. A person reviews every finding, and you get a short report with what to fix first.
+2. **Rescue.** I fix what is broken and get it live. Fixed price, agreed up front, 2 to 4 weeks.
+3. **Handover.** A written spec, a verify checklist, automatic checks and a log of every decision, so it keeps working after I leave. You own all the code.
+4. **Upkeep (optional).** A fixed monthly scope for small fixes and checks. Stop any time.
 
-Issue → pull request → checks → independent review → merge → release. When a problem shows up twice, I fix its cause, not the next case. (That is 横展, yokoten: one line's lesson spreads to every line.)
+The method behind it is jidoka: on a factory line a machine stops the moment it finds a defect, and a person decides what happens next. AI does the work. A person decides. [Read the method](https://coolwhite.us/method/).
 
-Open to remote roles and contract work:
+**Built in the open**
 
-AI delivery and developer-experience setup: guardrails, CI and review flow for AI agents
-Release and quality engineering for AI teams
-Technical project management for AI products
+- [**yokoten** · 横展](https://github.com/yokoten-labs/yokoten): stops your AI coding agent from making the mistake you can't undo. One command, zero dependencies, MIT. 520+ merged pull requests, 1,900+ tests on Linux, Windows and macOS, each change reviewed by a different AI model. `npx yokoten` · [yokoten.app](https://yokoten.app)
+- **cool-workflow**: turns an AI agent's chat answer into a saved report, every claim tied to a line of code. On npm.
 
-📫 nick.bai@coolwhite.us
+📫 nick.bai@coolwhite.us · send your site link and what's wrong.
+
+<sub>Coolwhite Studio is operated by COOLWHITE LLC (Wyoming).</sub>
