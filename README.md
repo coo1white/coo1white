@@ -15,7 +15,7 @@ The method behind it is jidoka: on a factory line a machine stops the moment it 
 
 **Built in the open**
 
-- [**yokoten** · 横展](https://github.com/yokoten-labs/yokoten): stops your AI coding agent from making the mistake you can't undo. One command, zero dependencies, MIT. 520+ merged pull requests, 1,900+ tests on Linux, Windows and macOS, each change reviewed by a different AI model. `npx yokoten` · [yokoten.app](https://yokoten.app)
+- [**yokoten**](https://github.com/yokoten-labs/yokoten): stops your AI coding agent from making the mistake you can't undo. One command, zero dependencies, MIT. 520+ merged pull requests, 1,900+ tests on Linux, Windows and macOS, each change reviewed by a different AI model. `npx yokoten` · [yokoten.app](https://yokoten.app)
 - **cool-workflow**: turns an AI agent's chat answer into a saved report, every claim tied to a line of code. On npm.
 
 📫 nick.bai@coolwhite.us · send your site link and what's wrong.
