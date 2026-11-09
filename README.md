@@ -1,4 +1,4 @@
-### Hi, I'm Nick · Coolwhite Studio · 酷白工作室
+### Hi, I'm Nick · Coolwhite Studio
 
 **Your AI built it. Now it's stuck. I'll get it working, and keep it working.**
 
