@@ -1,23 +1,23 @@
-### Hi, I'm Nick · Coolwhite Studio
+### Hi, I'm Nick Bai
 
-**Your AI built it. Now it's stuck. I'll get it working, and keep it working.**
+I build TypeScript products with AI coding agents, and I own the engineering around them: specs, reviews, tests, CI and releases.
 
-I run [Coolwhite Studio](https://coolwhite.us), a one-person studio that rescues AI-built projects for solo founders. Seven years in electronics manufacturing taught me one rule: fix the cause, not just the defect. I build software with AI agents and run it the same way.
+Before software, I spent seven years as a project manager in global electronics manufacturing in Vietnam. That is where I learned to run work as a process: fix the cause, not the defect, and stop the line when something is wrong.
 
-**How we work together**
+**What I work with**
 
-1. **Free check.** I run [inkamark](https://inkamark.com) on your public pages: 20 checks across screens, reading, search, safety and basics. A person reviews every finding, and you get a short report with what to fix first.
-2. **Rescue.** I fix what is broken and get it live. Fixed price, agreed up front, 2 to 4 weeks.
-3. **Handover.** A written spec, a verify checklist, automatic checks and a log of every decision, so it keeps working after I leave. You own all the code.
-4. **Upkeep (optional).** A fixed monthly scope for small fixes and checks. Stop any time.
+TypeScript · Node.js · Astro · Tailwind CSS · GitHub Actions · Cloudflare Workers · Python (scripts) · Claude Code and other coding agents
 
-The method behind it is jidoka: on a factory line a machine stops the moment it finds a defect, and a person decides what happens next. AI does the work. A person decides. [Read the method](https://coolwhite.us/method/).
+**Selected work**
 
-**Built in the open**
+- [**yokoten**](https://github.com/yokoten-labs/yokoten) · open source, MIT, on [npm](https://www.npmjs.com/package/yokoten)
+  A TypeScript CLI that turns on a coding agent's sandbox and stops the mistakes you can't undo: a wiped folder, a force push, a leaked key. Zero runtime dependencies. Runs on Linux, Windows and macOS.
+  Built under its own rules: every change is an issue, a pull request, CI, then a review by a different AI model. 520+ merged pull requests, 2,100+ tests, 63 written decision records, all public.
+- **cool-workflow** · on npm
+  Turns an AI agent's chat answer into a saved report, with every claim tied to a line of code.
 
-- [**yokoten**](https://github.com/yokoten-labs/yokoten): stops your AI coding agent from making the mistake you can't undo. One command, zero dependencies, MIT. 520+ merged pull requests, 1,900+ tests on Linux, Windows and macOS, each change reviewed by a different AI model. `npx yokoten` · [yokoten.app](https://yokoten.app)
-- **cool-workflow**: turns an AI agent's chat answer into a saved report, every claim tied to a line of code. On npm.
+**How I work**
 
-📫 nick.bai@coolwhite.us · send your site link and what's wrong.
+Issue → pull request → checks → independent review → merge → release. I write down why a decision was made, so the next person (or agent) doesn't have to guess.
 
-<sub>Coolwhite Studio is operated by COOLWHITE LLC (Wyoming).</sub>
+📫 nick.bai@coolwhite.us
