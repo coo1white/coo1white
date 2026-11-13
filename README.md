@@ -11,9 +11,9 @@ TypeScript · Node.js · Astro · Tailwind CSS · GitHub Actions · Cloudflare W
 **Selected work**
 
 - [**yokoten**](https://github.com/yokoten-labs/yokoten) · open source, MIT, on [npm](https://www.npmjs.com/package/yokoten)
-  A TypeScript CLI that turns on a coding agent's sandbox and stops the mistakes you can't undo: a wiped folder, a force push, a leaked key. Zero runtime dependencies. Runs on Linux, Windows and macOS.
+  A TypeScript CLI that turns on a coding agent's sandbox and stops the mistakes you can't undo: a wiped folder, a force push, a leaked key. Install it once and it runs in the background; it guards my own agent setup too. Zero runtime dependencies. Runs on Linux, Windows and macOS.
   Built under its own rules: every change is an issue, a pull request, CI, then a review by a different AI model. 520+ merged pull requests, 2,100+ tests, 63 written decision records, all public.
-- **cool-workflow** · on npm
+- **cool-workflow** · on npm · maintenance mode
   Turns an AI agent's chat answer into a saved report, with every claim tied to a line of code.
 
 **How I work**
