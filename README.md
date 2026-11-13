@@ -2,7 +2,7 @@
 
 I build TypeScript products with AI coding agents, and I own the engineering around them: specs, reviews, tests, CI and releases.
 
-Before software, I spent seven years as a project manager in global electronics manufacturing in Vietnam. That is where I learned to run work as a process: fix the cause, not the defect, and stop the line when something is wrong.
+I studied computer engineering, hold a PMP, and spent seven years in electronics manufacturing (Luxshare, Wingtech, Goertek), the last year leading production-line launches in Vietnam. That is where I learned to run work as a process: fix the cause, not the defect, and stop the line when something is wrong.
 
 **What I work with**
 
